@@ -1,8 +1,5 @@
-# Config files with secrets
-config.ini
-
-# Keep example config
-!config.ini.example
+# Config files with secrets - ignore local changes but keep template in repo
+# Note: config.ini template is in repo, but local changes are ignored
 
 # Results folder
 results/
