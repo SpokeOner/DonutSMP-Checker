@@ -34,7 +34,7 @@ A Minecraft account checker for DonutSMP with support for various account types,
    **Note:** If you get an error about `console.utils`, you may need to install it separately or remove that import if you don't need the title setting feature.
 
 2. **Configure `config.ini`:**
-   - Copy `config.ini.example` to `config.ini` (or create it manually)
+   - The `config.ini` file is already in the repo with placeholders
    - Add your Discord webhook URLs
    - Add your DonutSMP API key
    - (Optional) Add email check API URL if you have one
