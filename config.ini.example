@@ -1,0 +1,57 @@
+[Settings]
+webhook = paste your discord webhook here
+hits webhook = paste your hits webhook here
+2fa webhook = paste your 2fa webhook here
+xbox webhook = paste your xbox webhook here
+other webhook = paste your other webhook here
+donutsmp_api_key = paste your donutsmp api key here
+email_check_url = paste your email check api url here (optional, leave as is if you don't have one)
+embed = True
+max retries = 3
+webhookmessage = HIT: ||`<email>:<password>`||
+	Name: <name>
+	Account Type: <type>
+	Money: <money>
+	Kills: <kills>
+	Deaths: <deaths>
+	Mobs Killed: <mobskilled>
+	Playtime: <playtime>
+	Shards: <shards>
+	Broken Blocks: <brokenblocks>
+	Placed Blocks: <placedblocks>
+	Money Made From Sell: <moneymadefromsell>
+	Money Spent On Shop: <moneyspentonshop>
+	Optifine Cape: <ofcape>
+	MC Capes: <capes>
+	Email Access: <access>
+	Can Change Name: <namechange>
+	Last Name Change: <lastchanged>
+
+[Scraper]
+auto scrape minutes = 5
+
+[Auto]
+set name = True
+name = donut
+set skin = True
+skin = https://s.namemc.com/i/bc8429d1f2e15539.png
+skin variant = classic
+
+[Captures]
+DonutSMP Money = True
+DonutSMP Kills = True
+DonutSMP Deaths = False
+DonutSMP Mobs Killed = False
+DonutSMP Playtime = True
+DonutSMP Shards = False
+DonutSMP Broken Blocks = True
+DonutSMP Placed Blocks = True
+DonutSMP Money Made From Sell = True
+DonutSMP Money Spent On Shop = True
+Optifine Cape = True
+Minecraft Capes = True
+Email Access = True
+Name Change Availability = False
+Last Name Change = False
+Payment = True
+
