@@ -102,6 +102,7 @@ Results are saved in `results/[filename]/`:
 - Make sure you have a valid DonutSMP API key
 - Email check API is optional - if not provided, email access checking will be skipped
 - Use proxies to avoid rate limits
+- The best proxies to use for this are [vaultproxies](https://vaultproxies.com)
 - Results are automatically saved and sent to Discord webhooks
 
 ## ⚠️ Legal Disclaimer
